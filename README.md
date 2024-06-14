@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook for analyzing loan status data. The 
 ## Contents
 
 - `Loan_Status_Analysis.ipynb`: Jupyter Notebook with the analysis.
-- `data`: Directory containing the dataset (if applicable).
+- `Credit Risk.csv`: Dataset containing loan status information.
 
 ## Setup
 
